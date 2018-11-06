@@ -2,7 +2,7 @@
 
 First year project at the University of Bristol, done in collaboration with Errol Lee. This project aims at implementing the game logic behind the board game Scotland Yard: https://en.wikipedia.org/wiki/Scotland_Yard_(board_game)
 
-Files worked on are found in src/main/java/uk/ac/bris/cs/scotlandyard/model
+Files worked on are found in [src/main/java/uk/ac/bris/cs/scotlandyard/model](https://github.com/marco-lewis/scotland-yard-reupload/tree/master/src/main/java/uk/ac/bris/cs/scotlandyard/model)
 
 # Testing/Running the Program
 
