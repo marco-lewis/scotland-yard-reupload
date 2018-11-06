@@ -1,4 +1,4 @@
-# scotland-yard
+# scotland-yard-reupload
 
 First year project at the University of Bristol, done in collaboration with Errol Lee. This project aims at implementing the game logic behind the board game Scotland Yard: https://en.wikipedia.org/wiki/Scotland_Yard_(board_game)
 
